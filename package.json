@@ -1,12 +1,12 @@
 {
-  "name": "ip_serielizer",
-  "version": "1.0.0",
+  "name": "ip_serializer",
+  "version": "1.0.1",
   "homepage": "https://github.com/TheToddLuci0/node_ip_serielizer#readme",
   "repository": {
     "type": "git",
     "url": "git@github.com:TheToddLuci0/node_ip_serielizer.git"
   },
-  "description": "Provides IP Serielization",
+  "description": "Provides IP Serialization",
   "main": "lib/serilize.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
