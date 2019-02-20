@@ -1,7 +1,0 @@
-organization=thetoddluci0-github
-projectKey=TheToddLuci0_node_ip_serielizer
-serverUrl=https://sonarcloud.io
-serverVersion=7.7.0.22107
-dashboardUrl=https://sonarcloud.io/dashboard?id=TheToddLuci0_node_ip_serielizer
-ceTaskId=AWkLu_A0MXtK9HdJZy2N
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWkLu_A0MXtK9HdJZy2N
