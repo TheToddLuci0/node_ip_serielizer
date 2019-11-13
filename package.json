@@ -1,6 +1,6 @@
 {
   "name": "ip_serializer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/TheToddLuci0/node_ip_serielizer#readme",
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "license": "MITNFA",
   "dependencies": {
     "ip": "^1.1.5"
+  },
+  "devDependencies": {
+    "release-it": "^12.4.3"
   }
 }
