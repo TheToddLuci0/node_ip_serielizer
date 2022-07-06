@@ -17,6 +17,6 @@
     "ip": "^1.1.5"
   },
   "devDependencies": {
-    "release-it": "^14.1.0"
+    "release-it": "^15.1.1"
   }
 }
