@@ -9,7 +9,8 @@
   "description": "Provides IP Serialization",
   "main": "lib/serilize.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
   },
   "author": "TheToddLuci0 <woolery@iastate.edu>",
   "license": "MITNFA",
@@ -17,6 +18,11 @@
     "ip": "^1.1.5"
   },
   "devDependencies": {
-    "release-it": "^15.1.1"
+    "release-it": "^15.5.1"
+  },
+  "release-it": {
+    "github": {
+      "release": true
+    }
   }
 }
